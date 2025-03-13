@@ -1,0 +1,48 @@
+body {
+    width: 90%;
+    margin: 10px auto;
+    background-color: grey;
+}
+
+h1{
+    text-align: center;
+}
+
+form, .summary-div {
+    width: 30%;
+    margin: 10px auto;
+    background-color: beige;
+    padding: 10px;
+}
+
+form * {
+    box-sizing: border-box;
+    padding: 5px;
+}
+
+h2 {
+    text-align: center;
+}
+
+label {
+    display: block;
+    margin-left: 25%;
+    
+}
+
+input, select {
+    display: block;
+    width: 40%;
+    margin: auto;
+}
+
+.button-div {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.footer {
+    width: 30%;
+    margin: 10px auto;
+    padding: 5px;
+}
